@@ -1,6 +1,6 @@
 # ⚾️ About jDBTISK
 
-[![Contributions](https://badgen.org/img/qiita/tisk_jdb/contributions?style=plastic)](https://qiita.com/tisk_jdb) [![Followers](https://badgen.org/img/qiita/tisk_jdb/followers?style=plastic)](https://qiita.com/tisk_jdb) [![Likes](https://badgen.org/img/zenn/jdbtisk/likes?style=plastic)](https://zenn.dev/jdbtisk) [![Followers](https://badgen.org/img/zenn/jdbtisk/followers?style=plastic)](https://zenn.dev/jdbtisk) [![Twitter Followers](https://badgen.net/twitter/follow/tisk_jdb)](https://twitter.com/tisk_jdb)
+[![Contributions](https://badgen.org/img/qiita/tisk_jdb/contributions?style=plastic)](https://qiita.com/tisk_jdb) [![Followers](https://badgen.org/img/qiita/tisk_jdb/followers?style=plastic)](https://qiita.com/tisk_jdb) [![Likes](https://badgen.org/img/zenn/jdbtisk/likes?style=plastic)](https://zenn.dev/jdbtisk) [![Followers](https://badgen.org/img/zenn/jdbtisk/followers?style=plastic)](https://zenn.dev/jdbtisk)
 
 主に Python と AWS を触ってるデータエンジニア兼 WEBエンジニアです
 
